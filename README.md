@@ -6,8 +6,6 @@ Dibuat hanya dengan **HTML, CSS, dan JavaScript murni**. Tanpa framework, tanpa 
 
 **Live:** https://kazhtova.github.io/
 
----
-
 ## Struktur
 
 ```
